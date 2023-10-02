@@ -11,11 +11,11 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Satya Prakash"
-resume_title:                   "Solutions Architect"
+resume_title:                   "Associate Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "satyaprakash.od@gmail.com"
-resume_website_link:           "https://google.com"
+resume_website_link:           "http://Satyaprakash.me"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+917978849439"
@@ -24,7 +24,7 @@ resume_contact_address:         "Odisha, India"
 resume_header_contact_info:     "Odisha, India • +917978849439 • satyaprakash.od@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Solutions Architect and Web Developer. 2+ years in Wordpress Development</p>"
+resume_header_intro: "<p>Web Developer and Designer. 2+ years in Wordpress Development</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -52,7 +52,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/prakash-pro"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://iamprakash.com"
+  resume_website_url:           "http://Satyaprakash.me"
   #resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
